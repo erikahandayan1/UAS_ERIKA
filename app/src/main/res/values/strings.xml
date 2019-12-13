@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Easy Mop</string>
+    <string name="start">START</string>
+    <string name="kategori">Kategori Rental</string>
+    <string name="faq">FAQ</string>
+    <string name="tab_text_1">Rental Order</string>
+    <string name="tab_text_2">FAQ</string>
+    <string name="lk">Laki-laki</string>
+    <string name="pr">Perempuan</string>
+    <string name="mobil">Mobil</string>
+    <string name="motor">Motor</string>
+    <string name="mobil1">Suzuki APV</string>
+    <string name="mobil2">Toyota Avanza</string>
+    <string name="mobil3">Toyota Innova</string>
+    <string name="motor1">Honda Beat</string>
+    <string name="motor2">Yamaha Mio</string>
+    <string name="motor3">Nmax</string>
+    <string name="order">Order</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="order_summary_email_subject">Nota Pembayaran Easy Mop <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="api_key_android">AIzaSyAFCkwQt5puuULCA9g67KO5thY4TnSiRvc</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
